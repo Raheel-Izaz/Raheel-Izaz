@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raheel Izaz</h1>
 <h3 align="center">A passionate Full Stack Developer.</h3>
 
-- 🔭 I’m currently working on **Online Bus Ticket Reseveration System**
+<!-- - 🔭 I’m currently working on **Online Bus Ticket Reseveration System** -->
 
 - 🌱 I’m currently learning **ASP.Net Core and Angular**
 
